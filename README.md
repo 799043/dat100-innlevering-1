@@ -2,6 +2,6 @@
 
 Innlevering 1
 Inneholder:
-- O1
-- O2
-- O3
+- O1 - Trinnskatt
+- O2 - Karakterskala
+- O3 - Fakultet
